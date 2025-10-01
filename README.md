@@ -1,7 +1,7 @@
 <h1 align="center">hey there 👋</h1>
 
 <div align="right">
-  <a href="https://www.linkedin.com/in/bhanwar-singh/" target="_blank">
+  <a href="https://www.linkedin.com/in/bhanwar-singh/" target="blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/lazyloopdev" target="_blank">
